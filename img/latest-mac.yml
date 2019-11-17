@@ -1,0 +1,12 @@
+version: 2.1.2
+files:
+  - url: PicGo-2.1.2-mac.zip
+    sha512: cVv3uTNIHZvIz1vUrsCw6Is9OMfnVB1PqnduXCbui5likgWcO0WaxqBjgWR+g0lqsdkERsw+T6yOoiqkokb/Mg==
+    size: 58458812
+    blockMapSize: 62183
+  - url: PicGo-2.1.2.dmg
+    sha512: 1TPNGvXknILKhPrzDXtwzFDy6IyNFqqWWh9oUet0fzxdyg9lH9ONPsSWHYvk1qjMtfcoGFVvMCEWVGBzIeYpRw==
+    size: 60650683
+path: PicGo-2.1.2-mac.zip
+sha512: cVv3uTNIHZvIz1vUrsCw6Is9OMfnVB1PqnduXCbui5likgWcO0WaxqBjgWR+g0lqsdkERsw+T6yOoiqkokb/Mg==
+releaseDate: '2019-04-19T05:31:32.495Z'
